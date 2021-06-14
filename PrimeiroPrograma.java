@@ -43,5 +43,7 @@ class PrimeiroPrograma {
         System.out.println("Colaborador: João Vitor Betiatto");
 
         System.out.println("Colaborador: Daniel D. Lara");
+
+        System.out.println("Colaborador: Paulo Henrique D. Putzel");
     }
 }
